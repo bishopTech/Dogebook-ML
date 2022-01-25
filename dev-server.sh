@@ -1,0 +1,1 @@
+FLASK_ENV=development FLASK_APP="dogebook:create_app" flask run
